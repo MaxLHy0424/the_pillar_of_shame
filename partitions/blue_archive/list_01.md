@@ -28,3 +28,16 @@
 - **影响评估**: 严重
 - **特征归纳**: 小鬼 串子 仇日 玩迷你世界 玩暗区突围
 - **最后验证时间**: 2025/05/10
+
+---
+
+- **平台/社区**: 哔哩哔哩
+- **用户 ID**: [3546743620765806](https://space.bilibili.com/3546743620765806)
+- **行为记录**: 
+  - 2024/08/14: 诋毁蔚蓝档案游戏角色 \([BV18ZeneWECw](https://www.bilibili.com/video/BV18ZeneWECw)\)
+  - 2024/08/15: 诋毁蔚蓝档案游戏角色 \([BV1VTe8enE3R](https://www.bilibili.com/video/BV1VTe8enE3R), [BV16TePeWEnC](https://www.bilibili.com/video/BV16TePeWEnC), [BV15BeAe5E4C](https://www.bilibili.com/video/BV15BeAe5E4C)\)
+  - 2024/08/16: 诋毁蔚蓝档案游戏角色 \([BV1ukegeREjX](https://www.bilibili.com/video/BV1ukegeREjX), [BV1jyeueeEVA](https://www.bilibili.com/video/BV1jyeueeEVA)\)
+  - 等等
+- **影响评估**: 中等
+- **特征归纳**: 小鬼 串子 自恋
+- **最后验证时间**: 2025/05/10
